@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\User\source\repos\Project4\Project4\소스.c(4,6): warning C4101: 'com' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\Project4\Project4\소스.c(4,17): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\User\source\repos\Project4\Project4\소스.c(4,11): warning C4101: 'user' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> C:\Users\User\source\repos\Project4\Debug\Project4.exe
